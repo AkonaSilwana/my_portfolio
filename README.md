@@ -1,17 +1,3 @@
-I'm a Front-End Engineer who specializes in React. I am passionate about all things programming and tech.
-
-🌍  I'm based in South Africa
-🖥️  See my portfolio at https://akonasilwana.netlify.app/
-✉️  You can contact me at asilwana30@gmail.com
-🧠  I'm learning React(Typescript) and NextJs 
-🤝  I'm open to collaborating on any interesting open source projects
-
-
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
