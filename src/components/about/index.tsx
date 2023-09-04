@@ -78,9 +78,7 @@ const Timeline = () => {
         I am passionate about learning and solving problems, and currently seeking a
         company with ambitions and innovative ideas, that can be driven by a
         collective of software engineers to help bring their goals to light. 
-        This is the reason why I would like to join SovTech,as an award winning software dev house.
-        I will be part of teams that build world class software and business solutions. Working and having access to
-        the greatest minds/teams in the industry in an environment that will #make me smile.
+        
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
